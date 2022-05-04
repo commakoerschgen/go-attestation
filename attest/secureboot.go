@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/google/go-attestation/attest/internal"
+	"github.com/commakoerschgen/go-attestation/attest/internal"
 )
 
 // SecurebootState describes the secure boot status of a machine, as determined
